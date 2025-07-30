@@ -1,4 +1,4 @@
-# five-interview
+# five-dimensional
 
 笔试题-前端：
 Implement this design using a front-end framework or HTML/CSS. Submit a Github Link.

@@ -262,6 +262,8 @@ body {
   box-shadow: 0 min(calc(2 / 1920 * 100vw), calc(2 / 1080 * 100vh)) min(calc(20 / 1920 * 100vw), calc(20 / 1080 * 100vh)) 0 rgba(19,67,112,0.15);
 }
 
+.function-box input, img, textarea, button {position: fixed;}
+
 /* 功能框内标题样式 */
 .h2-box h2 {
   position: fixed;
